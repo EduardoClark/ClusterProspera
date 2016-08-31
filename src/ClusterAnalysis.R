@@ -13,7 +13,7 @@ Cluster <- unique(Cluster)
 
 
 
-TMP <- Cluster[Cluster$Grupo=="60091226",]
+TMP <- Cluster[Cluster$Grupo=="60091226",]s
 TMP1 <- Cluster[Cluster$Grupo=="60090968",]
 
 Clusters <- 
